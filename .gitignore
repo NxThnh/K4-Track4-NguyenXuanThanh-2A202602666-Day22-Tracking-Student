@@ -1,5 +1,7 @@
 lab_data/
-runs/
+runs/**/*.mp4
+runs/thu_nhanh/
+runs/thu_nghiem/
 TrackEval/
 *.pt
 __pycache__/
